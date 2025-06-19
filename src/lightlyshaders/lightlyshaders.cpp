@@ -27,7 +27,7 @@
 #include <QStandardPaths>
 #include <QWindow>
 #include <opengl/glutils.h>
-#include <opengl/openglcontext.h>
+#include <opengl/eglcontext.h>
 #include <effect/effect.h>
 #include <core/renderviewport.h>
 #include <QMatrix4x4>
